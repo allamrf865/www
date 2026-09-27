@@ -1,11 +1,3 @@
-# Redraws the forest / ranking plot (Figure 4) from data/forest_ranking_digitized.csv.
-#
-# Read data/README.md before trusting this figure. In short: the per-study
-# totals in this file do not match the arm sizes reported in
-# data/study_characteristics.csv for the same studies (Emami 2015 and
-# Hawkins 2019 are the clearest examples). This script draws the figure
-# faithfully; it does not, and cannot, verify the numbers behind it.
-
 library(readr)
 library(dplyr)
 library(ggplot2)
@@ -31,9 +23,6 @@ p <- ggplot(d, aes(x = rr, y = study_label)) +
 dir.create("figures/regenerated", showWarnings = FALSE, recursive = TRUE)
 ggsave("figures/regenerated/fig4_forest_regenerated.png", p, width = 8, height = 6, dpi = 300)
 
-# The weight/P-score/rank/SUCRA columns are printed alongside the plot in the
-# original figure. Reproduced here as a plain table rather than baked into
-# the plot image, so the numbers stay legible and easy to re-check by hand.
 write_csv(
   d %>% select(study_label, rr, ci_lower, ci_upper, weight_pct, p_score, rank, sucra, sensitivity_flag),
   "figures/regenerated/fig4_ranking_table.csv"

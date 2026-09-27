@@ -1,11 +1,3 @@
-# Redraws the direct/indirect evidence contribution plot (Figure 3) from
-# data/netsplit_direct_indirect.csv. These are network-level summary
-# statistics (the output of netmeta::netsplit on the fitted model), not
-# per-patient counts, so they aren't subject to the same Table 1
-# cross-check as Figure 4 — but they were digitized from the published
-# figure rather than recomputed from a model object, since the underlying
-# fitted network was not part of what was supplied for this repository.
-
 library(readr)
 library(dplyr)
 library(tidyr)

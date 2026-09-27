@@ -1,7 +1,3 @@
-# Redraws the PRISMA 2020 flow diagram (Figure 1) from data/prisma_flow_counts.csv.
-# The counts in that file add up correctly at every stage, so this is a direct,
-# verifiable reproduction rather than a guess at layout.
-
 library(readr)
 library(dplyr)
 library(ggplot2)
