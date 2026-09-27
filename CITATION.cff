@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the accompanying manuscript."
+type: dataset
+title: "Data and analysis code for: Primary versus Delayed and Sutureless Closure for Gastroschisis, a Systematic Review and Network Meta-analysis with Bayesian Sensitivity Analyses"
+authors:
+  - family-names: Diposarosa
+    given-names: Rizki
+    affiliation: "Department of Pediatric Surgery, Universitas Padjadjaran"
+  - family-names: "Zulkarnain Balia"
+    given-names: Karina
+    affiliation: "Department of Pediatric Surgery, Universitas Padjadjaran"
+  - family-names: Indriasari
+    given-names: Vita
+    affiliation: "Department of Pediatric Surgery, Universitas Padjadjaran"
+  - family-names: "Kusmayadi"
+    given-names: "Dikki Drajat"
+    affiliation: "Department of Pediatric Surgery, Universitas Padjadjaran"
+  - family-names: Lia
+    given-names: Emiliana
+    affiliation: "Department of Pediatric Surgery, Universitas Padjadjaran"
+  - family-names: Pamungkas
+    given-names: "Kurniawan Oki"
+    affiliation: "Department of Pediatric Surgery, Universitas Padjadjaran"
+keywords:
+  - gastroschisis
+  - primary closure
+  - sutureless
+  - silo
+  - network meta-analysis
+license: MIT

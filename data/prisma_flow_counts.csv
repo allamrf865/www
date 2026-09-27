@@ -1,0 +1,14 @@
+stage,label,n,parent_stage
+identification,Records identified through database searching (total),790,
+identification,PubMed,95,identification
+identification,Scopus,658,identification
+identification,Cochrane Library,37,identification
+identification,Records excluded as duplicates,109,identification
+screening,Records after duplicates removed,681,identification
+screening,Records excluded (not relevant),195,screening
+screening,Records excluded (insufficient data),9,screening
+eligibility,Full-text articles assessed for eligibility,477,screening
+eligibility,Excluded - not meeting inclusion criteria,91,eligibility
+eligibility,Excluded - data overlap with other studies,103,eligibility
+eligibility,Excluded - poor study design,271,eligibility
+included,Studies included in qualitative and quantitative synthesis,12,eligibility

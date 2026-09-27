@@ -1,0 +1,13 @@
+study_id,first_author,year,country_setting,study_design,sample_size_per_arm,closure_techniques_compared,simple_complex_definition,key_outcomes_reported,notes
+wong_2020,Wong et al.,2020,"USA (Seattle Children's)",Retrospective comparative cohort,"n=80 (Primary 14%, Sutureless 65%, Delayed 21%)",Primary vs Sutureless vs Delayed/Silo,"Atresia, perforation, ischemia, volvulus = complex","Cost, LOS, PN days, ventilation, feeds",3-arm study; ideal for NMA
+riboh_2009,Riboh et al.,2009,USA (Stanford),Retrospective case-control,Sutureless n=26 vs Sutured n=20,Sutured vs Sutureless,Excluded atresia/perforation,"Ventilation, LOS, feeding",Historical control design
+emami_2015,Emami et al. (CAPSNet),2015,Canada (national registry),Multicenter comparative cohort,Fascial n=436 vs Flap/Sutureless n=129,Fascial vs Sutureless/Flap,GPS risk stratification,"LOS, PN, NPO days, complications",Largest dataset
+witt_2018,Witt et al. (UCSF),2018,USA,Retrospective cohort,Sutured n=50 vs Sutureless n=40,Sutured vs Sutureless,Excluded atresia/perf/NEC,"LOS, feeds, TPN, ventilation",Clean two-arm comparison
+hawkins_2019,Hawkins et al.,2019,USA (8 centers),Multicenter cohort,IC n=224 vs Silo n=337,Immediate Closure vs Silo,"Atresia, perforation = complex","Mortality, LOS, ventilation",High-quality multicenter
+bruzoni_2017,Bruzoni et al. (RCT),2017,USA (Stanford),RCT,Sutureless n=19 vs Sutured n=20,Sutured vs Sutureless,Excluded complex cases,"Extubation, LOS, complications",High-level evidence
+pastor_2008,Pastor et al. (RCT),2008,USA & Canada,RCT,Silo n=27 vs Primary n=27,Primary Closure vs Silastic Silo,Included atresia; excluded necrosis,"Ventilation, TPN, LOS",One of few true RCTs
+poola_2018,Poola et al.,2018,USA,RCT,Primary n=20 vs Delayed/Silo n=18,Primary vs Delayed Closure,Excluded atresia/necrosis,"LOS, feeds, ventilation",Strong PC vs DC trial
+joharifard_2022,Joharifard et al.,2022,USA/Canada,Comparative cohort,Pre-protocol vs Post-protocol (multiple closure types),Protocolized closure vs non-protocol,Simple vs complex based on protocol,"LOS, sepsis, ventilation","Eligible, multi-arm"
+owen_2006,Owen et al.,2006,USA,Retrospective cohort,Primary vs Silo (sample sizes in PDF),Primary Closure vs Silo,Atresia/perf = complex,"LOS, ventilation, infection",Classic PC vs DC comparison
+lobo_2010,Lobo et al.,2010,USA,Retrospective cohort,Primary Closure vs Silo,Primary vs Spring-loaded Silo,Based on ischemic bowel findings,"LOS, cost, complications",Often cited; strong comparator
+tsai_2010,Tsai et al.,2010,Taiwan,Retrospective comparative cohort,Primary n=32 vs Staged/Silo n=12,Primary vs Staged Repair (Silo),Atresia/perf = complex,"LOS, feeds, ventilation, mortality",Fully eligible; clean dataset

@@ -1,0 +1,7 @@
+comparison,direct_pct,indirect_pct,minimal_parallelism,mean_path_length
+PC vs DC,85,15,1.5,1.7
+SC vs SL,59,41,1.9,2.1
+PC vs SL,42,58,2.1,2.4
+DC vs SL,34,66,2.2,2.5
+PC vs SC,34,66,2.2,2.5
+DC vs SC,0,100,2.7,3.0

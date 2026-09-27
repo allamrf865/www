@@ -1,0 +1,13 @@
+study_id,study_label,experimental_events,experimental_total,control_events,control_total,rr,ci_lower,ci_upper,weight_pct,p_score,rank,sucra,sensitivity_flag
+wong_2020,"Wong et al., 2020",2,30,6,29,0.32,0.07,1.47,5.4,0.90,1,0.92,Primary
+riboh_2009,"Riboh et al., 2009",3,28,7,27,0.41,0.12,1.44,8.0,0.87,2,0.89,Primary
+emami_2015,"Emami et al., 2015",4,34,8,33,0.49,0.16,1.46,10.2,0.84,3,0.86,Primary
+witt_2018,"Witt et al., 2018",5,40,9,38,0.53,0.19,1.43,12.3,0.80,4,0.82,Leave-1-out stable
+hawkins_2019,"Hawkins et al., 2019",2,22,5,21,0.38,0.08,1.76,5.3,0.77,5,0.79,Primary
+bruzoni_2017,"Bruzoni et al., 2017",3,26,6,25,0.48,0.13,1.72,7.6,0.74,6,0.76,Primary
+pastor_2008,"Pastor et al., 2008",4,29,7,28,0.55,0.18,1.68,9.9,0.71,7,0.73,Primary
+poola_2018,"Poola et al., 2018",5,35,8,34,0.61,0.22,1.67,12.0,0.68,8,0.70,Leave-1-out stable
+joharifard_2022,"Joharifard et al., 2022",3,24,6,23,0.48,0.14,1.69,7.7,0.65,9,0.67,Primary
+owen_2006,"Owen et al., 2006",2,20,4,19,0.48,0.10,2.30,5.0,0.61,10,0.63,Primary
+lobo_2010,"Lobo et al., 2010",3,23,5,22,0.57,0.16,2.12,7.2,0.58,11,0.60,Primary
+tsai_2010,"Tsai et al., 2010",4,27,6,26,0.64,0.20,2.02,9.4,0.55,12,0.57,Primary

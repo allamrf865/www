@@ -1,0 +1,4 @@
+test,p_value
+Egger,0.985
+Begg-Mazumdar,0.644
+Thompson-Sharp,0.831
