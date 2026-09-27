@@ -1,6 +1,3 @@
-# Redraws the traffic-light risk-of-bias plots (Figure 2) from
-# data/risk_of_bias_rob2.csv and data/risk_of_bias_robins_i.csv.
-
 library(readr)
 library(dplyr)
 library(tidyr)
