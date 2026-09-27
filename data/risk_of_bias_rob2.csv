@@ -1,0 +1,4 @@
+study_id,study_label,D1_randomisation,D2_deviations,D3_missing_data,D4_outcome_measurement,D5_selective_reporting,overall
+pastor_2008,Pastor 2008,Low,Some concerns,Low,Low,Low,Low
+bruzoni_2017,Bruzoni 2017,Low,Low,Low,Some concerns,Low,Some concerns
+poola_2018,Poola 2018,Low,Some concerns,Low,Low,Some concerns,Some concerns

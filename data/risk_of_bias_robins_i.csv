@@ -1,0 +1,10 @@
+study_id,study_label,D1_confounding,D2_selection,D3_intervention_classification,D4_deviations,D5_missing_data,D6_outcome_measurement,D7_selective_reporting,overall
+wong_2020,Wong 2020,Serious,Some concerns,Low,Some concerns,Low,Low,Low,Serious
+riboh_2009,Riboh 2009,Serious,Some concerns,Low,Some concerns,Low,Some concerns,Low,Serious
+emami_2015,Emami 2015,Some concerns,Low,Low,Low,Low,Low,Low,Some concerns
+witt_2018,Witt 2018,Some concerns,Low,Low,Low,Low,Low,Low,Some concerns
+hawkins_2019,Hawkins 2019,Serious,Some concerns,Low,Some concerns,Low,Some concerns,Low,Serious
+lobo_2010,Lobo 2010,Some concerns,Low,Low,Low,Low,Low,Low,Some concerns
+owen_2006,Owen 2006,Serious,Some concerns,Low,Some concerns,Low,Some concerns,Low,Serious
+tsai_2010,Tsai 2010,Some concerns,Low,Low,Low,Low,Low,Low,Some concerns
+joharifard_2022,Joharifard 2022,Some concerns,Low,Low,Low,Low,Low,Low,Some concerns
